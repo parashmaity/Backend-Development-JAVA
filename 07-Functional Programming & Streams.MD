@@ -2,7 +2,7 @@
 
 ## 63. What is functional programming?
 
-Functional programming is a a typical example or pattern in which programs are built using pure functions, immutability, and declarative programming. It treats computation as the evaluation of mathematical functions and avoids changing state and mutable data.
+Functional programming is a pattern in which programs are built using pure functions, immutability, and declarative programming. It treats computation as the evaluation of mathematical functions and avoids changing state and mutable data.
 
 ### Key principles:
 - **Pure functions** (no side effects, same input → same output)
